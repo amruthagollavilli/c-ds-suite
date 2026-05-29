@@ -1,8 +1,8 @@
-# C Data Structures Suite
+ C Data Structures Suite
 
 Implemented core data structures and algorithms from scratch using C and Java.
 
-## Implemented
+Implemented
 - Linked Lists
 - Stacks
 - Queues
@@ -10,7 +10,7 @@ Implemented core data structures and algorithms from scratch using C and Java.
 - Searching Algorithms
 - Sorting Algorithms
 
-## Concepts Used
+ Concepts Used
 - Pointers
 - Dynamic Memory Allocation
 - Hashing
@@ -18,7 +18,7 @@ Implemented core data structures and algorithms from scratch using C and Java.
 - Structures
 - Time Complexity Analysis
 
-## Technologies
+ Technologies
 - C
 - Java
 - Git
